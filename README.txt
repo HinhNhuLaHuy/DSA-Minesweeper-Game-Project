@@ -1,0 +1,1 @@
+How to play Minesweeper: Open the folder and debug the file GamePlay.java.
